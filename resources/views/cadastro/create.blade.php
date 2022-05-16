@@ -186,7 +186,10 @@
 
       
     
-  </div>
+    </div>
+    </div>
+  <div class="col-md-6 mb-4">
+
   <button class="btn btn-primary" type="submit">Cadastrar Produto</button>
 </form>
 

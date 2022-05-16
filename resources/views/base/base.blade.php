@@ -14,12 +14,11 @@
   <section class="navigation">
     <a href="#" class="app-link">Ninjas awesome</a>
     <div class="navigation-links">
-      <a href="#" class="nav-link ">Destinations</a>
-      <a href="#" class="nav-link ">Destinations</a>
-      <a href="#" class="nav-link active">Hotels</a>
-      <a href="#" class="nav-link">Camping</a>
-      <a href="#" class="nav-link">Car Rent</a>
-      <a href="#" class="nav-link active">Hotels</a>
+      <a href="#" class="nav-link active">Desenvolvedores</a>
+      <a href="#" class="nav-link ">Infraestrutura</a>
+      <a href="#" class="nav-link ">Callcenter</a>
+      <a href="#" class="nav-link">Suporte</a>
+      <a href="#" class="nav-link">Outros</a>
     </div>
     <div class="nav-right-side">
       <button class="mode-switch">
