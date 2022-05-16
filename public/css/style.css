@@ -14,7 +14,6 @@
 }
 
 
-
 :root {
   font-family: "Quicksand", sans-serif;
   --app-bg: #fff;
@@ -818,10 +817,10 @@ section.app-actions {
 .filter-action-buttons {
   display: flex;
   overflow-x: auto;
-  position: relative;
+  position: absolute;
 }
 .filter-action-buttons button {
-  margin-bottom: 4px;
+  margin-bottom: 204px;
 }
 
 .filter-line {
