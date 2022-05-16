@@ -1,4 +1,4 @@
-@extends('base/base')
+@extends('base/base2')
 
 @section('content')
 

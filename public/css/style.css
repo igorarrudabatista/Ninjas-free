@@ -4,6 +4,17 @@
   outline: none;
 }
 
+.input-group-text  {
+  background-color: #d84851;
+  border-right: 1px solid rgb(255, 255, 255);
+  border-top-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  border-bottom: 0;
+  color: #fff;
+}
+
+
+
 :root {
   font-family: "Quicksand", sans-serif;
   --app-bg: #fff;
@@ -945,4 +956,6 @@ section.app-actions {
   .contact-actions span {
     display: none;
   }
+
+
 }
